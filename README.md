@@ -5,12 +5,14 @@
 ## SOCIAL
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalys-caires-2004/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:thalyscaires@hotmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-4682B4?style=for-the-badge&logo=microsoft-outlook&logoColor=00008B)](mailto:thalyscaires@hotmail.com)
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/bicudoT9999)
 
 ## Habilidades
 
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
+![HTML](https://img.shields.io/badge/html-F38F00?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/css-4B0082?style=for-the-badge&logo=css3)
 
 <!--
 **Bicud0/Bicud0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
