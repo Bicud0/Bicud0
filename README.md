@@ -11,8 +11,9 @@
 ## Habilidades
 
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
-![HTML](https://img.shields.io/badge/html-F38F00?style=for-the-badge&logo=html5)
+![HTML](https://img.shields.io/badge/html-4F4F4F?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/css-4B0082?style=for-the-badge&logo=css3)
+![JS](https://img.shields.io/badge/javascript-1C1C1C?style=for-the-badge&logo=javascript)
 
 <!--
 **Bicud0/Bicud0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
